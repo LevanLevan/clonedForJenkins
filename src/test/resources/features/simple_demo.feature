@@ -12,6 +12,6 @@ Feature: The application should be running
     When I search for "useless box"
     Then I should see more results
 
-    #something important
+    #something important,again something important
 
 
